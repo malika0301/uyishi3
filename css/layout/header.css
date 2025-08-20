@@ -1,0 +1,25 @@
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: var(--primary-color);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-menus {
+    cursor: pointer;
+}
+
+.brands {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: none;
+}

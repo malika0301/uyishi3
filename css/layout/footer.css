@@ -1,0 +1,11 @@
+.footer {
+    background-color: var(--primary-color);
+}
+
+.footer-title {
+    text-align: center;
+    font-size: 16px;
+    color: var(--first-color);
+    padding-top: 23px;
+    padding-bottom: 22px;
+}

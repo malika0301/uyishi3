@@ -1,0 +1,32 @@
+#watch {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.Watch-cards {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.Watch-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F6F6F6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px;
+}
+
+.Watch-card p {
+    color: #8b8e99;
+    margin-top: 10px;
+}
+
+.Watch-card-title {
+    padding-left: 25px;
+}

@@ -1,0 +1,27 @@
+:root {
+    --primary-color: #0B0B0B;
+    --first-color: white;
+    --secondary-color: #8B8E99;
+    --third-color: #3858D6;
+    --background-color: #F6F6F6;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    color: var(--secondary-color);
+}
